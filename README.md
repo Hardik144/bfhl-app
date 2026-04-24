@@ -5,6 +5,14 @@ Built with **Node.js + Express** (backend) and **Vanilla HTML/CSS/JS** (frontend
 
 ---
 
+## 🌐 Live Demo
+
+Frontend: https://bfhl-hardik-app.netlify.app
+
+Backend: https://bfhl-app-ds0n.onrender.com
+
+---
+
 ## Project Structure
 
 ```
@@ -27,9 +35,9 @@ bfhl-app/
 Open `backend/index.js` and replace these at the top:
 
 ```js
-const USER_ID = "yourname_ddmmyyyy";           // e.g. johndoe_17091999
-const EMAIL_ID = "your.email@srmist.edu.in";
-const COLLEGE_ROLL_NUMBER = "RA2111003010001";
+const USER_ID = "hardikpatidar_01042004";       
+const EMAIL_ID = "hp3619@srmist.edu.in";
+const COLLEGE_ROLL_NUMBER = "RA2311027010088";
 ```
 
 ### 2. Install & run the backend locally
